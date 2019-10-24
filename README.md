@@ -36,7 +36,15 @@ On your device's screen, you'll see a blue background and a random name like in 
 <a id="examples"></a>
 ## Examples
 
-Several examples are provided to get you started. To open an example, take the following steps.
+Several examples are provided to get you started. 
+
+- **Hello, world**: draws the string "Hello, world" on screen
+- **Drag**: draws four buttons that you can drag around the screen
+- **Button**: Updates the screen when you press the on-board Flash button
+- **Blink**: Blinks the on-board LED
+- **Weather**: Traces weather data from a cloud service to the console
+
+To open an example in the WebIDE, take the following steps.
 
 1. Go to the Projects view in the WebIDE and click **Import GitHub Gist**.
 
@@ -49,7 +57,10 @@ Several examples are provided to get you started. To open an example, take the f
 4. Enter the gist ID for the example you want to run.
 
 	- Hello, world: `598fa08d89986872ae5bef048a18f0a4`
+	- Drag: `49e5ea10301921f975e861779e6cbf30`
 	- Button: `fffa26dfb77d4b2f5bc7fa246a00ac06`
+	- Blink: `289ffe2a7b87201e4760a744e2921b11`
+	- Weather: `13d3bf789866582640c4d937015e357a`
 	
 	<img src="./images/input-gist-id.png" width=450>
 
